@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam
 - 👀 I’m interested in coding..
-- 🌱 I worked on various technology Java,DSA,React JS,Node JS.
+- 🌱 I worked on various technology Node JS, Javascript, PHP, Wordpress, Shopify.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through mail Id: Shivambhatt97@gmail.com
 
